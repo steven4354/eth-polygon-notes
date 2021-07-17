@@ -1,11 +1,13 @@
-# eth-polygon-notes
 
-## using brownie to test smart contract functions on mainnet
+
+## didn't work
+
+### using brownie to test smart contract functions on mainnet
 https://iamdefinitelyahuman.medium.com/ethereum-mainnet-testing-with-python-and-brownie-82a61dee0222
 https://betterprogramming.pub/getting-started-with-brownie-part-2-615a1eec167f
 
 
-## adding polygon network to brownie
+### adding polygon network to brownie
 https://www.youtube.com/watch?v=DrMm7lKo_WY
 https://www.quicknode.com/
 
@@ -23,3 +25,4 @@ brownie console --network poly_mainnet_1
 
 note: brownie console accepts python code (not js)
 
+some issue with Contract.from_explorer not sure what's up
