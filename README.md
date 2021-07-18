@@ -4,7 +4,7 @@
 
 https://replit.com/@steven4354/ShimmeringPortlyOpenlook#index.js
 
-## didn't work
+## What didn't work
 
 ### using brownie to test smart contract functions on mainnet
 https://iamdefinitelyahuman.medium.com/ethereum-mainnet-testing-with-python-and-brownie-82a61dee0222
